@@ -1,0 +1,10 @@
+# 编译输出
+build/
+
+# Qt Creator 本地配置（换机器后自动重建）
+*.pro.user
+.qtcreator/
+
+# uic 自动生成的界面头文件
+ui_*.h
+ui_*.bak
