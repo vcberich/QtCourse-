@@ -8,3 +8,4 @@ build/
 # uic 自动生成的界面头文件
 ui_*.h
 ui_*.bak
+*.pro.user.*
